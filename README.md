@@ -1,3 +1,5 @@
+This is aan assignment project given by RIMES Bagladesh LTD.
+
 Assignment: Building a Simple Product Management Application with React and Django API
 
 ### Backend
